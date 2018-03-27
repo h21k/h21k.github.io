@@ -19,9 +19,13 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -162,6 +166,101 @@ $(document).ready(function () {
 
 
 
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+  padding-left: 25px;
+  text-indent: 0;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
 
 
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
@@ -239,14 +338,26 @@ $(document).ready(function () {
 </div>
 
 
-<div id="h21k.github.io" class="section level1">
-<h1>h21k.github.io</h1>
-<p>personal website</p>
-<p>thanks to Emily C. Zabor <a href="http://github.com/zabore" class="uri">http://github.com/zabore</a> for presenting the framework!</p>
+<p><link rel="stylesheet" href="styles.css" type="text/css"></p>
+<div id="invited" class="section level2">
+<h2>Invited</h2>
+<p>2018 New York R Conference, New York, NY: <em>How Long Will I Live? The Statistics Behind Prognosis in Cancer Research</em></p>
+</div>
+<div id="contributed" class="section level2">
+<h2>Contributed</h2>
+<p>2018 Eastern North American Region of the International Biometric Society, Atlanta, GA: <em>Validity of a method for identifying disease subtypes that are etiologically heterogeneous</em></p>
+<p>2017 Joint Statistical Meetings, Baltimore, MD: <em>Dimension reduction in the study of etiologic heterogeneity</em></p>
+<p>2017 Society for Epidemiologic Research, Seattle, WA: <em>A comparison of statistical methods for the study of etiologic heterogeneity</em> (poster)</p>
+<p>2017 Eastern North American Region of the International Biometric Society, Washington DC: <em>A comparison of statistical methods for the study of etiologic heterogeneity</em> (poster)</p>
+<p>2016 Molecular Pathologic Epidemiology, Boston, MA: <em>A review of statisitcal methods for evaluating etiologic heterogeneity</em></p>
+<p>2011 Third North American American Congress of Epidemiology, Montreal, Canada: <em>Initial reactions to tobacco and risk of future regular tobacco use</em> (poster)</p>
+<p>2010 American Association for Dental Research, Washington DC: <em>Association between periodontal disease, bacterial vaginosis, and sexual risk behaviours</em></p>
 </div>
 
 
 
+</div>
+</div>
 
 </div>
 
