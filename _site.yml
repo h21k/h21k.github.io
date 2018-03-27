@@ -1,7 +1,7 @@
 name: "Frank Soboczenski"
 output_dir: "."
 navbar:
-  title: "Emily C. Zabor"
+  title: "Frank Soboczenski"
   left:
     - text: "Writing"
       href: research.html
@@ -9,17 +9,21 @@ navbar:
       href: talks.html
     - text: "Programming"
       href: software.html
-    - text: "Teaching!!!!"
+    - text: "Teaching"
       href: teaching.html
+    - text: "Awesome stuff"
+      href: awersome.html
+    - text: "SHIELD"
+      href: shield.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
     - icon: fa-github fa-lg
-      href: http://github.com/zabore
+      href: http://github.com/h21k
     - icon: fa-twitter fa-lg
-      href: https://twitter.com/zabormetrics
+      href: https://twitter.com/h21k
     - icon: fa-linkedin fa-lg
-      href: https://www.linkedin.com/in/emily-zabor-59b902b7/
+      href: https://www.linkedin.com/in/frank-soboczenski-5abb292b
 output:
   html_document:
     theme: paper
