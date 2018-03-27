@@ -7,10 +7,10 @@ navbar:
       href: research.html
     - text: "Speaking"
       href: talks.html
-    - text: "Programming"
-      href: software.html
     - text: "Teaching"
       href: teaching.html
+    - text: "Programming"
+      href: software.html
     - text: "Awesome stuff"
       href: awersome.html
     - text: "SHIELD"
