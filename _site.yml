@@ -1,7 +1,7 @@
-name: "Frank Soboczenski"
+name: "Frank Soboczenski, PhD"
 output_dir: "."
 navbar:
-  title: "Frank Soboczenski"
+  title: "Frank Soboczenski, PhD"
   left:
     - text: "Research"
       href: research.html
@@ -11,10 +11,12 @@ navbar:
       href: talks.html
     - text: "Development"
       href: software.html
-    - text: "Awesome stuff"
-      href: awersome.html
-    - text: "SHIELD"
-      href: shield.html
+    - text: "NASA"
+      href: nasa.html
+    - text: "Outreach"
+      href: outreach.html
+    - text: "Roles"
+      href: roles.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
