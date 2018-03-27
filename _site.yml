@@ -3,13 +3,13 @@ output_dir: "."
 navbar:
   title: "Frank Soboczenski"
   left:
-    - text: "Writing"
+    - text: "Research"
       href: research.html
-    - text: "Speaking"
-      href: talks.html
     - text: "Teaching"
       href: teaching.html
-    - text: "Programming"
+    - text: "Speaking"
+      href: talks.html
+    - text: "Development"
       href: software.html
     - text: "Awesome stuff"
       href: awersome.html
