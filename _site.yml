@@ -18,7 +18,7 @@ navbar:
     - text: "Roles"
       href: roles.html
     - text: "Contact"
-      href: roles.html
+      href: contact.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
