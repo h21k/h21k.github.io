@@ -15,9 +15,7 @@ During my work I have developed numerous applications for science and industry a
 
 I graduated from the [Deggendorf Institute of Technology](https://www.th-deg.de/en) in cooperation with the [German Research Center for Artificial Intelligence](https://www.dfki.de/web) and was awarded with a PhD on my work to reduce transcription errors (numerical and textual) of medical devices under the advisement of [Dr. Paul Cairns](https://www-users.cs.york.ac.uk/~pcairns/) and [Prof. Richard Paige](https://www.cs.york.ac.uk/people/paige) at the [University of York](https://cs.york.ac.uk).
 
-I am a known R Ninja, currently organising the [R User Group](https://www.kcl.ac.uk) at King's College. 
-
-My full CV is available [here](files/Zabor_CV_2017_Q4.pdf).
+I am a known R Ninja, currently organising the [R User Group](https://www.kcl.ac.uk) at King's College.
 
 _________
 This website was created in [R](https://www.r-project.org)! 
