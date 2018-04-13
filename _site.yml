@@ -9,10 +9,10 @@ navbar:
       href: teaching.html
     - text: "Speaking"
       href: talks.html
-    - text: "Development"
-      href: software.html
     - text: "NASA"
       href: nasa.html
+    - text: "Development"
+      href: software.html
     - text: "Outreach"
       href: outreach.html
     - text: "Roles"

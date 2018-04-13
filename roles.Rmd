@@ -11,24 +11,22 @@ output:
 
 ### King's College London
 
-- [R User Group]() Main Organiser<br>
-- [Low Risk Ethics Reviewer]()<br>
-- [IEEE Jouenal of X]() Reviewer<br>
-- [Master of Public Health]() Tutor<br>
+- [IEEE Jouenal of Biomedical and Health Informatics](https://jbhi.embs.org/) Reviewer<br>
+- [R User Group](https://www.kcl.ac.uk) Main Organiser<br>
+- [Masters of Public Health](https://www.kcl.ac.uk/study/postgraduate/taught-courses/public-health-mph.aspx) Tutor<br>
+- [Low Risk Ethics Commitee](https://www.kcl.ac.uk/innovation/research/support/ethics/committees/bdm/index.aspx) Reviewer<br>
 
 ## Past Roles
 
 ### University of York
 
-- [R Users Day York - RUDY]() Co-Organiser<br>
-- [Computer Science]() Teaching Assistant<br>
-- [IEEE Jouenal of X]() Reviwer<br>
-- [Master of Science in Cyber Security]() Associate Lecturer<br>
+- [Master of Science in Cyber Security](https://www.york.ac.uk/study/postgraduate-taught/courses/msc-cyber-security/) Associate Lecturer<br>
+- [Journal Interacting with Computers (IwC)](https://academic.oup.com/iwc) Reviewer<br>
+- [R Users Day York - RUDY](https://sites.google.com/a/york.ac.uk/r-users-york/news/rseminarseriesr-markdown?pli=1) Co-Organiser<br>
+- [Computer Science](https://www.cs.york.ac.uk/) Teaching Assistant<br>
 
 ### Deggendorf Institute of Technology
 
-- [R Users Day York - RUDY]() Co-Organiser<br>
-- [Computer Science]() Teaching Assistant<br>
-- [IEEE Jouenal of X]() Reviwer<br>
-- [Master of Science in Cyber Security]() Associate Lecturer<br>
-
+- [AI / Prolog programming](https://www.th-deg.de/en) Instructor<br>
+- [Computer Science & Business Economics](https://www.th-deg.de/en) Lab Instructor<br>
+- [Mensa](https://www.th-deg.de/en) Student Representative<br>
