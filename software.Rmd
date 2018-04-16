@@ -7,14 +7,23 @@ output:
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-## Github packages
+I've developed numerous applications for science and industry on multiple platforms. Some are listed below:
 
-- `riskclustr`, a package of functions for the study of etiologic heterogeneity
-- `ezfun`, a package of personal utility functions to generate tables for use in R Markdown reports
-- `condsurv`, a package for conditional survival analysis
+## Google Apps Engine 
 
-## Github packages
+- [`Test Proxy Server`](https://uslesstest.appspot.com/)
+- [`Task Manager with Collaboration Functionality`](https://angryslugs.appspot.com/)
+- [`Geographic Chat`](https://angrycoffeemonster.appspot.com/)
 
-## Github packages
+## iOS (iPhone/iPad)
+- `B.Braun Number-Entry Interface`
+- `Serial Number-Entry interface`
+- `iPad Game - Memorize or Die`
+- `iPad Game - Bug in a Tube`
+- `iPhone App - NASA SpaceApps Challenge 2014 York`
 
-## Github packages
+## Others
+
+- R, Shiny, C++, Python, Java, Flask, Ada, Raspbian, and many more...
+
+You can find most of my public codes on [Github](https://www.github.com/h21k). Feel free to [contact me](contact.html) about specific requests on tools or if you want me to join your development team. 
