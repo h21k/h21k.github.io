@@ -1,21 +1,23 @@
 ---
+output:
+  html_document: 
+    toc: true
+    toc_float: true
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-I'd love to hear from you, so feel free to reach out:
+I consider myself fortunate and privilledged to work with so many brilliant minds over the last view years.<br>
+This page lists some of my work with NASA.<br>
 
-Memorial Sloan Kettering Cancer Center<br>
-485 Lexington Ave, 2nd floor<br>
-New York, NY 10017<br>
-646-888-8299<br>
-zabore@mskcc.org<br>
+## NASA FDL
 
-Columbia University<br>
-Mailman School of Public Health<br>
-722 West 168th St, 6th floor<br>
-New York, NY 10032<br>
-ecz2108@cumc.columbia.edu<br>
+## NASA Globe Program
 
-Or connect with me on GitHub, Twitter, or Linkedin (links in top right).
+- [12th Excellence in Teaching Conference](https://www.kcl.ac.uk/academy/educators-network/Excellence-in-Teaching-Conference.aspx) I'll be leading a workshop on modern teaching & research technology<br>
+- RobotReviewer Day I'll be heading an outreach event on our project software and its capabilities ---> more news soon<---<br>
+
+## NASA Space Apps 
+
+## NASA ENSPIRES 
 
