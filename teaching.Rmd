@@ -1,26 +1,28 @@
 ---
+output:
+  html_document: 
+    toc: true
+    toc_float: true
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
+## Upcoming
 
-## Tutorials
+## Courses & Tutorials
 
 You can find materials related to tutorials I have presented at [www.emilyzabor.com/tutorials](http://www.emilyzabor.com/tutorials/).
 
 
-## Adjunct professor classes
-
-Spring 2017: Fundamentals of Biostatistics, Hunter College
-
-Fall 2016: Fundamentals of Biostatistics, Hunter College
+## King's College London
 
 
-## Teaching assistant classes
+## University of York
 
 Fall 2017: Data Science I, Columbia University
 
-Spring 2010: Advanced Topics in Clinical Trials, The University of Minnesota
+## Deggendorf Institute of Technology
 
-Spring 2009: Introduction to Biostatistics, The University of Minnesota
+## The Mount School York
+
 

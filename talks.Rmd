@@ -7,26 +7,31 @@ output:
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-## Invited
+## Upcoming
 
-2018 New York R Conference, New York, NY: *How Long Will I Live? The Statistics Behind Prognosis in Cancer Research*
+2018 Google Campus: <b>*RobotReviewer*</b><br>
+2018 IBM: <b>*RobotReviewer: Automatic Evidence Synthesis for Randomised Controlled Trials*</b><br>
+2018 King's College: <b>*RobotReviewer Day*</b><br>
+2018 King's College R User Group: <b>*Using Jupyter Notebooks with R*</b><br>
 
+## Invited Speaker
 
-## Contributed
+2015 <b>*RStudio and version control with Git/Github.*</b> The 3rd R-Users day in York.<br>
+2015 <b>*A road map to reduce number-entry errors.*</b> The University of York Department of Psychology. Invited by Dr. Silke Goebel<br>
+2015 <b>*Three minutes research presentation.*</b> The University of Sheffield<br>
+2015 <b>*Research presentation* The Department of Computer Science: Research students seminars series</b><br>
+2014 <b>*Data Visualisation with RStudio.*</b> The 2nd R-Users day in York.<br>
+2013 <b>*Introduction to RStudio.*</b> The 1st R-Users day in York.<br>
+2013 <b>*Reducing number-entry errors in medical devices.*</b> The Department of Computer-Science Human-Computer Interaction Group<br>
+2012 <b>*5-Key medical device safety.*</b> CHI+MED Number-Entry Workshop at Swansea University<br>
 
-2018 Eastern North American Region of the International Biometric Society, Atlanta, GA: *Validity of a method for identifying disease subtypes that are etiologically heterogeneous*
+## Conference Talks
 
-2017 Joint Statistical Meetings, Baltimore, MD: *Dimension reduction in the study of etiologic heterogeneity*
+2015 <b>*Study of the Reliability of Statistical Timing Analysis for Real-Time Systems.*</b> 23rd International Conference on Real Time and Networks Systems - RTNS'15<br>
 
-2017 Society for Epidemiologic Research, Seattle, WA: *A comparison of statistical methods for the study of etiologic heterogeneity* (poster)
+2014 <b>*The Effects of Perceptual Interference on Number-Entry Errors.*</b> First Int. conf. on Interaction Design and Human Factors, Kochi Japan</br>
 
-2017 Eastern North American Region of the International Biometric Society, Washington DC: *A comparison of statistical methods for the study of etiologic heterogeneity* (poster)
-
-2016 Molecular Pathologic Epidemiology, Boston, MA: *A review of statisitcal methods for evaluating etiologic heterogeneity*
-
-2011 Third North American American Congress of Epidemiology, Montreal, Canada: *Initial reactions to tobacco and risk of future regular tobacco use* (poster)
-
-2010 American Association for Dental Research, Washington DC: *Association between periodontal disease, bacterial vaginosis, and sexual risk behaviours*
+2013 <b>*Increasing Accuracy by Decreasing Presentation Quality in Transcription Tasks.*</b> Interact Capetown</br>
 
 
 
