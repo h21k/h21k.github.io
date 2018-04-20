@@ -16,6 +16,9 @@ You can find materials related to tutorials I have presented at [www.emilyzabor.
 
 ## King's College London
 
+### Fall 2017 
+Masters of Public Health Tutorials
+R in Medical Reseaech
 
 ## University of York
 
