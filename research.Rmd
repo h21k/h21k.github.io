@@ -7,9 +7,15 @@ output:
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-## Columbia University
+## King's College London
 
 My dissertation research, under the advisement of [Dr. Shuang Wang](https://www.mailman.columbia.edu/people/our-faculty/sw2206) at Columbia University and [Dr. Colin Begg](https://www.mskcc.org/profile/colin-begg) at Memorial Sloan Kettering Cancer Center, focuses on statistical methods for the study of etiologic heterogeneity. After using a data example and simulation study to compare and contrast existing methods for the study of etiologic heterogeneity, I am currently working to examine the statistical properties of our method for the study of etiologic heterogeneity and determining the best approach to dimension reduction in the context of high dimension tumor marker data.
+
+## Popular Media
+
+### NASA Space Apps 
+
+### Three Minutes Thesis
 
 ### Selected publications
 
@@ -27,7 +33,7 @@ Begg, C. B., Seshan, V. E., **Zabor, E. C.**, Furberg, H., Arora, A., Shen, R., 
 
 Begg, C. B., **Zabor, E. C.**, Bernstein, J. L., Bernstein, L., Press, M. F., Seshan, V. E. (2013). A conceptual and methodological framework for investigating etiologic heterogeneity. *Stat Med*, 32(29), 5039-5052.
 
-## Memorial Sloan Kettering Cancer Center
+## University of York
 
 At Memorial Sloan Kettering Cancer Center I spent six years collaborating on research projects in genito-urinary cancers, with an emphasis on genetic predictors of patient outcomes. I currently work with the breast surgery service on research comparing patient outcomes according to different treatment strategies. I have also collaborated closely with epidemiologists on research related to smoking and bladder cancer and with health outcomes researchers on long-term outcomes following treatment for lymphoma.
 

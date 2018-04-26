@@ -20,12 +20,14 @@ You can find materials related to tutorials I have presented at [www.emilyzabor.
 Masters of Public Health Tutorials
 R in Medical Reseaech
 
+## The Mount School York
+
 ## University of York
 
 Fall 2017: Data Science I, Columbia University
 
 ## Deggendorf Institute of Technology
 
-## The Mount School York
+
 
 
