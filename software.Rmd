@@ -9,6 +9,13 @@ output:
 
 I've developed numerous applications for science and industry on multiple platforms. Some are listed below:
 
+## Deep Learning
+There are several projects currently in development. Those range from NLP to Image data analysis.<br>
+Also keep an eye on my [Github](https://github.com/h21k) repositories.<br> 
+
+## IBM
+I am currently working on a hyperledger projet that utilises IBM's Bluemix platform.
+
 ## Google Apps Engine 
 
 - [`Test Proxy Server`](https://uslesstest.appspot.com/)

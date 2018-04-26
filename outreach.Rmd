@@ -10,7 +10,7 @@ output:
 ## Upcoming Events
 
 - [12th Excellence in Teaching Conference](https://www.kcl.ac.uk/academy/educators-network/Excellence-in-Teaching-Conference.aspx) I'll be leading a workshop on modern teaching & research technology<br>
-- RobotReviewer Day I'll be heading an outreach event on our project software and its capabilities ---> more news soon<---<br>
+- RobotReviewer Day I'll be heading an outreach event on our project software and its capabilities <b>---> more news soon<---</b><br>
 
 ## Past Events
 
