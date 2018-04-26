@@ -19,7 +19,7 @@ output:
 2015 <b>*RStudio and version control with Git/Github.*</b> The 3rd R-Users day in York.<br>
 2015 <b>*A road map to reduce number-entry errors.*</b> The University of York Department of Psychology. Invited by Dr. Silke Goebel<br>
 2015 <b>*Three minutes research presentation.*</b> The University of Sheffield<br>
-2015 <b>*Research presentation* The Department of Computer Science: Research students seminars series</b><br>
+2015 <b>*Research presentation*</b> The Department of Computer Science: Research students seminars series<br>
 2014 <b>*Data Visualisation with RStudio.*</b> The 2nd R-Users day in York.<br>
 2013 <b>*Introduction to RStudio.*</b> The 1st R-Users day in York.<br>
 2013 <b>*Reducing number-entry errors in medical devices.*</b> The Department of Computer-Science Human-Computer Interaction Group<br>

@@ -7,6 +7,8 @@ output:
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
+NOTE THIS WEBSITE IS NOT YET FULLY READY - SOME OF THE CONTENT HERE IS NOT YET UPDATED! 
+
 ## Upcoming
 
 ## Courses & Tutorials
@@ -20,9 +22,9 @@ You can find materials related to tutorials I have presented at [www.emilyzabor.
 Masters of Public Health Tutorials
 R in Medical Reseaech
 
-## The Mount School York
-
 ## University of York
+
+## The Mount School York
 
 Fall 2017: Data Science I, Columbia University
 

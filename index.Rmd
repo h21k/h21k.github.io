@@ -5,8 +5,6 @@
 
 <img src="images/frank_shuttle.png" style="width:25%; border:1px solid; margin-right: 20px" align="left">
 
-NOTE THIS WEBSITE IS NOT YET FULLY READY - SOME OF THE CONTENT HERE IS NOT YET UPDATED! 
-
 <p align="justify">I am a Computer Scientist at [King's College London](https://kclpure.kcl.ac.uk/portal/frank.soboczenski.html) & a [NASA Globe STEM scientist](https://www.globe.gov/web/frank.soboczenski/home). My current research focuses on Deep-Learning and Natural-Language Processing (healthcare domain) in form of the [RobotReviewer](http://www.robotreviewer.net/) project.</p>
 
 <p align="justify">I have previously worked in areas such as [Human-Computer Interaction](http://www-users.cs.york.ac.uk/~feynman/), [Cyber-Security](https://www.york.ac.uk/study/postgraduate-taught/courses/msc-cyber-security/) and [Real-Time Systems](http://www.proxima-project.eu/) in cooperation with the [German Police Force](http://www.polizei.bayern.de/), [GCHQ](https://www.gchq.gov.uk/), [Rapita Systems](https://www.rapitasystems.com/), [INRIA](https://www.inria.fr/en/), [Barcelona Supercomputing Center](https://www.bsc.es/) & [Airbus](http://www.airbus.com/). I also served as a lead organizer of [NASA Space Apps challenges](https://www.spaceappschallenge.org/) and worked on AI projects with the [National Space Society](http://www.nss.org/) as well as law enforcement entities.</p>
