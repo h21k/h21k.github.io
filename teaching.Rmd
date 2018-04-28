@@ -11,16 +11,22 @@ NOTE THIS WEBSITE IS NOT YET FULLY READY - SOME OF THE CONTENT HERE IS NOT YET U
 
 ## Upcoming
 
+There are no current teaching activities planned at the moment.
+
 ## Courses & Tutorials
 
-You can find materials related to tutorials I have presented at [www.emilyzabor.com/tutorials](http://www.emilyzabor.com/tutorials/).
+I am in the process of creating an R online course as well as one for deep-learning. More on that, soon!<br>
+In the meantime you can find materials related to tutorials I have presented on my [Github](https://github.com/h21k).
+
+I also have an R book in manuscript form that I plan to publish sometime this year. 
 
 
 ## King's College London
 
 ### Fall 2017 
-Masters of Public Health Tutorials
-R in Medical Reseaech
+<b>Masters of Public Health</b> Tutorials<br>
+<b>R in Medical Reseaech</b> Tutorials<br>
+<b>Statistics I</b> Teaching assistant<br>
 
 ## University of York
 

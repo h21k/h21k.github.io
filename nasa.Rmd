@@ -20,7 +20,7 @@ My pofile can be found [here](https://www.globe.gov/web/frank.soboczenski/home).
 
 ## NASA FDL
 
-I am amonst the finalists to attend the 2018 NASA Frontier Development Lab (FDL) at the [SETI Institute](https://www.seti.org/) in Mountain View, California.<br>
+I am amongst the finalists to attend the 2018 NASA Frontier Development Lab (FDL) at the [SETI Institute](https://www.seti.org/) in Mountain View, California.<br>
 My project pool that I'll be working on is:
 
 ### Category I: Space Weather
