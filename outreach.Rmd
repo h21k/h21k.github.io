@@ -20,7 +20,14 @@ output:
 
 ### University of York
 
-- [Master of Science in Cyber Security](https://www.york.ac.uk/study/postgraduate-taught/courses/msc-cyber-security/) Associate Lecturer<br>
-- [Journal Interacting with Computers (IwC)](https://academic.oup.com/iwc) Reviewer<br>
-- [R Users Day York - RUDY](https://sites.google.com/a/york.ac.uk/r-users-york/news/rseminarseriesr-markdown?pli=1) Co-Organiser<br>
-- [Computer Science](https://www.cs.york.ac.uk/) Teaching Assistant<br>
+- [NASA SpaceApps York](http://www.spaceappschallege.org/)<br>
+<p align="justify">Lead Organiser of SpaceApps York - NASA’s global and largest hackathon in the world. Over 90 cities participated in this weekend-event. Established live-links with NASA Tallahassee, and other locations in the world. Over Fifty local students worked in teams on world-class challenges resulting in a finalist in 2015 and a winning team in 2016.</p>
+
+- [York Space Weekend - UK Space Agency's Schools Conferences](https://principia.org.uk/schools-conferences/york/)<br>
+<p align="justify">Represented NASA SpaceApps York and the department of computer science at this fantastic event for school children with UK Astronaut Tim Peake. Presented new technologies and applications for space and science including our winning team's application Launch Sight to hundreds of youngsters (2016).</p>
+
+- [Next Steps York Program](https://sites.google.com/a/york.ac.uk/r-users-york/news/rseminarseriesr-markdown?pli=1)<br>
+<p align="justify">Gave programming lectures in games design and programming in Python & Scratch to po- tential new undergraduate students. The purpose of this event is to provide talented Year 12 students with the opportunity to participate in a programme of activity that will sup- port their application to a research intensive university like the University of York (2016).</p>
+
+- ["I am a scientist get me out of here" Competition (Wellcome Trust)](https://medphysm13.imascientist.org.uk/profile/franksoboczenski/)<br>
+<p align="justify">Participated in this fantastic event where I could chat with hundreds of school children about science. Made 2nd place in the medical physics zone (2013).</p>

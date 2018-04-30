@@ -46,15 +46,15 @@ Can we use data from Kepler, K2 and and human analysis to develop a method to im
 
 <p align="justify">For more than 5 years, I am active as lead-organiser or organising comittee member of the NASA Space Apps Challenge in York. I look back on many amazing memories and fantastic software development moments. More information can be found at [Space Apps Challenge](https://2017.spaceappschallenge.org/) or the previous York specific events:</p>
 
-- [NASA Space Apps York 2017]()<br>
-- [NASA Space Apps York 2016]()<br>
+- [NASA Space Apps York 2017](https://2017.spaceappschallenge.org/locations/york/)<br>
+- [NASA Space Apps York 2016](https://2016.spaceappschallenge.org/locations/york-england)<br>
 - [NASA Space Apps York 2015]()<br>
 - [NASA Space Apps York 2014]()<br>
 - [NASA Space Apps York 2013]()<br>
 
 Our team [LaunchSight]() won the 2016 Challenge and was invited amonst other global winning teams to [NASA Kennedy Space Center](https://www.kennedyspacecenter.com/). We had the opportunity to meet so many amazing people and attend the [OSIRIS REx](https://www.asteroidmission.org/) mission launch. X the Z, Beth the C and R the x were among the many amazing people I've met at my time at NASA. 
 
-winning team picutre. meeting ppictures.
+Pictures can be found here:.
  
 ## NASA ENSPIRES 
 

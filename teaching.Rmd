@@ -7,8 +7,6 @@ output:
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-NOTE THIS WEBSITE IS NOT YET FULLY READY - SOME OF THE CONTENT HERE IS NOT YET UPDATED! 
-
 ## Upcoming
 
 There are no current teaching activities planned at the moment.
@@ -20,22 +18,43 @@ In the meantime you can find materials related to tutorials I have presented on 
 
 I also have an R book in manuscript form that I plan to publish sometime this year. 
 
-
 ## King's College London
 
-### Fall 2017 
+Fall 2017:<br> 
 <b>Masters of Public Health</b> Tutorials<br>
 <b>R in Medical Reseaech</b> Tutorials<br>
 <b>Statistics I</b> Teaching assistant<br>
 
 ## University of York
 
+2016<br> 
+<b>MSc in of Cyber-Security</b> Asssociate Lecturer<br>
+
+2011 - 2015<br> 
+<b>HACS: Human Aspects of Computer Science (BSc level)</b><br> 
+<b>HACS-RS: Human Aspects of Computer Science, Reading Seminars (BSc level)</b><br> 
+<b>UCDE: User-Centered Design (MSc level)</b><br> 
+<b>REQE: Requirements-Engineering (MSc)</b><br> 
+<b>NSTC: Non-Standard Computation (MSc)</b><br> 
+<b>TPOP: Theory and Practice of Programming (MSc)</b><br> 
+<b>COMP: Project: Computer Science Projects (MSc/BSc)</b><br> 
+<b>COMP-W: Computer Science Writing (MSc/BSc)</b><br> 
+<b>SYAC: Systems Software and Compilers (BSc)</b><br> 
+<b>SWEN: Software Engineering (MSc)</b><br> 
+<b>AI: Artificial Intelligence (BSc)</b><br> 
+<b>GPSM: Group Project Software Management (MSc)</b><br> 
+
 ## The Mount School York
 
-Fall 2017: Data Science I, Columbia University
+2011<br> 
+<b>German Language Teacher</b>
 
 ## Deggendorf Institute of Technology
 
+2008<br> 
+<b>PROLOG programming and knowledge-based systems evaluation</b> Instructor<br> 
+<b>KNNS artificial intelligence & neuronal network software simulator</b> Lab Assistant<br> 
 
-
-
+2007<br> 
+<b>Prof. Fischer's Software-tool laboratory</b> Lab Instructor<br> 
+<b>SAP/R3 ABAP programming</b> Tutor and teaching content writer<br> 
