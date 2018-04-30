@@ -7,45 +7,86 @@ output:
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-NOTE THIS WEBSITE IS NOT YET FULLY READY - SOME OF THE CONTENT HERE IS NOT YET UPDATED! 
+## Research Interests
 
-## King's College London
+<p align="justify">
+Human-Computer interaction focused on medical device and aviation systems safety including big data analysis, visualisation & artificial intelligence in healthcare: human error, empirical studies, number-entry perceptual interference, disfluencey, cognitive theory, augmented reality, probabilistic timing analysis, software modeling, autonomous systems, robotics, unmanned-areal vehicle control systems, flight-deck system safety, cyber-security, forensics, deep-learning, machine-learning</p>
 
-My dissertation research, under the advisement of [Dr. Shuang Wang](https://www.mailman.columbia.edu/people/our-faculty/sw2206) at Columbia University and [Dr. Colin Begg](https://www.mskcc.org/profile/colin-begg) at Memorial Sloan Kettering Cancer Center, focuses on statistical methods for the study of etiologic heterogeneity. After using a data example and simulation study to compare and contrast existing methods for the study of etiologic heterogeneity, I am currently working to examine the statistical properties of our method for the study of etiologic heterogeneity and determining the best approach to dimension reduction in the context of high dimension tumor marker data.
+## Current focus at King's College London
+
+<p align="justify">I am currently working on the [Robotreviewer](http://www.robotreviewer.net/) (MRC/NIH Fellowship) project: working on novel methods for <b>automatic bias assessment</b> in systematic reviews based on <b>natural language processing</b> and state-of-the-art <b>deep-learning algorithms</b>; supervising user-experience studies; evaluating neural text extraction and classification models</p>
 
 ## Popular Media
 
-### NASA Space Apps 
+<p align="justify">**Soboczenski, F.** “Sum up your thesis: Reducing number-entry errors in medical devices”,
+Times Higher Education, 2013. [https://goo.gl/oQrWSq](https://goo.gl/oQrWSq)</p>
 
-### Three Minutes Thesis
+<p align="justify">**Soboczenski, F.** "Gone in 180 Seconds”, Times Higher Education, 2013. 
+[https://www.timeshighereducation.com/gone-in-180-seconds/2005390.article](https://www.timeshighereducation.com/gone-in-180-seconds/2005390.article)</p>
 
-### Selected publications
+## Referred Journal Articles
 
-The below publications represent my work to date on the topic of statistical methods for the study of etiologic heterogeneity:
+<p align="justify">**Soboczenski, F.**, Hudson M. & Cairns P., (2016). The Effects of Perceptual Interference on Number-Entry Errors. *Interacting with Computers (IwC)*, 28, vol (2), p. 208 - 218, doi: 10.1093/iwc/iwv034</p>
 
-**Zabor, E. C.**, & Begg, C. B. (2017). A comparison of statistical methods for the study of etiologic heterogeneity. *Stat Med*, 36(25), 4050-4060.
+## Conference Publications
 
-Mauguen, A., **Zabor, E. C.**, Thomas, N. E., Berwick, M., Seshan, V. E., & Begg, C. B.(2017). Defining Cancer Subtypes With Distinctive Etiologic Profiles: An Application to the Epidemiology of Melanoma. *J Am Stat Assoc*, 112(517), 54-63.
+<p align="justify">Griffin, D., Lesage, B., Bate, I., **Soboczenski, F.** & Davis, R., (2017). Forecast-Based Interference: Modelling Multicore Interference from Observable Factors. *Proceedings of the 25th International Conference on Real-Time Networks and Systems - RTNS ’17 *(2017).
+</p>
+<p align="justify">Lesage, B., Griffin, D., Bate, I. & **Soboczenski, F.**, (2017). Exploring and Understanding Multicore Interference from Observable Factors. *In Proceedings of Automotive - Safety & Security* (2017)</p>
+<p align="justify">Griffin, D., Bate, I., Lesage, B. & **Soboczenski, F.**, (2016). Evaluating Mixed Criticality Scheduling Algorithms with Realistic Workloads. *In Proceedings of the 3rd Workshop on Mixed Criticality Systems* (2016)</p>
+<p align="justify">Maxim, D., **Soboczenski, F.**, Bate, I. & Tovar, E., (2015). Study of the Reliability of Sta- tistical Timing Analysis for Real-Time Systems. *Proceedings of the 23rd International Conference on Real Time and Networks Systems - RTNS ’15 *(2015)
+</p>
+<p align="justify">Lesage, B., Griffin, D., **Soboczenski, F.**, Bate, I., & Davis, R., (2015). A Framework for the Evaluation of Measurement-based Timing Analyses. *Proceedings of the 23rd International Conference on Real Time and Networks Systems - RTNS ’15 *(2015)
+</p>
+<p align="justify">Griffin, D., Lesage B., **Soboczenski F.**, Bate, I. & Davis, R., (2015). Modelling Fault Dependencies when Execution Time Budgets are Exceeded. *Proceedings of the 23rd International Conference on Real Time and Networks Systems - RTNS ’15 *(2015)
+</p>
+<p align="justify">Borghouts, J., **Soboczenski, F.**, Cairns P. & Brumby, D., (2015). Visualising Magnitude: Graphical Number Representations Help Users Detect Large Number Entry Errors. *In proceedings of the Human Factors and Ergonomics Society (HFES) 2015 International Annual Meeting, Los Angeles* - **(Best Paper Award)**</p>
 
-Begg, C. B., Rice, M. S., **Zabor, E. C.**, & Tworoger, S. S. (2017). Examining the common aetiology of serous ovarian cancers and basal-like breast cancers using double primaries. *Br J Cancer*.
+<p align="justify">**Soboczenski, F.**, Hudson M. & Cairns P., (2014). The Effects of Perceptual Interference on Number- Entry Errors. *Proceedings of the first Int. conf. on Interaction Design and Human Factors, Kochi Japan*.</p>
 
-Begg, C. B., Orlow, I., **Zabor, E. C.**, Arora, A., Sharma, A., Seshan, V. E., Bernstein, J. L. (2015). Identifying Etiologically Distinct Sub-Types of Cancer: A Demonstration Project Involving Breast Cancer. *Cancer Med*, 4(9), 1432-1439.
+<p align="justify">**Soboczenski, F.**, Cairns, P., & Cox, A. L. (2013). Increasing Accuracy by Decreasing Pre- sentation Quality in Transcription Tasks. *In Human-Computer Interaction Proc. Interact 2013*, Springer LNCS 8118 (pp. 380-394)</p>
 
-Begg, C. B., Seshan, V. E., **Zabor, E. C.**, Furberg, H., Arora, A., Shen, R., . . . Hsieh, J. J. (2014). Genomic investigation of etiologic heterogeneity: methodologic challenges. *BMC Med Res Methodol*, 14, 138.
+<p align="justify">**Soboczenski, F.**, Datta, A. & Cairns, P. (2013). Reducing Number-Entry Errors in Medical Systems: A Tale of Two Studies. *In proceedings of the 6th York Doctoral Symposium on Computer Science and Electronics* 2013 (pp. 94)
 
-Begg, C. B., **Zabor, E. C.**, Bernstein, J. L., Bernstein, L., Press, M. F., Seshan, V. E. (2013). A conceptual and methodological framework for investigating etiologic heterogeneity. *Stat Med*, 32(29), 5039-5052.
+## Conference Posters
 
-## University of York
+<p align="justify">**Soboczenski, F.** (2014). 5-Key interfaces for medical devices. *British Computer Society - Doctoral Consortium on design and interfaces*.</p>
 
-At Memorial Sloan Kettering Cancer Center I spent six years collaborating on research projects in genito-urinary cancers, with an emphasis on genetic predictors of patient outcomes. I currently work with the breast surgery service on research comparing patient outcomes according to different treatment strategies. I have also collaborated closely with epidemiologists on research related to smoking and bladder cancer and with health outcomes researchers on long-term outcomes following treatment for lymphoma.
+<p align="justify">**Soboczenski, F.** (2013). Reducing Number-Entry Errors in Healthcare. *Poster presented at the BCS Health Informatics Conference Scotland* 2013</p>
 
-### Selected publications
+<p align="justify">**Soboczenski, F.** (2013). A tale of two studies. *Poster presented at the 6th York Doctoral Symposium on Computer Science and Electronics* 2013</p>
 
-The following publications represent a sample of methodological work I have conducted at Memorial Sloan Kettering Cancer Center:
+## Other Publications
 
-**Zabor, E. C.**, Heller, G., Schwartz, L. H., Chapman, P. B. (2016). Correlating Surrogate Endpoints with Overall Survival at the Individual Patient Level in BRAFV600E-Mutated Metastatic Melanoma Patients Treated with Vemurafenib. *Clin Cancer Res*, 22(6), 1341-1347.
+<p align="justify">**Soboczenski, F.** (2014) The Effect of Interface Elements on Transcription Tasks to Reduce Number-Entry Errors. *PhD thesis, University of York*.</p>
 
-**Zabor, E. C.**, Gonen, M., Chapman, P. B., Panageas, K. S. (2013). Dynamic prognostication using conditional survival estimates. *Cancer*, 119(20), 3589-3592.
+<p align="justify">**Soboczenski, F.** (2009) Ontology Based Modeling Rules for the Unified Modeling Language (UML). *Diploma thesis, Deggendorf Institute of Technology, Germany*.</p>
+
+## Items in preparation
+
+<p align="justify">**Soboczenski, F.**, X & Y, (2018). Now you see me - counterintuitive solutions to reduce human error.</p>
+
+<p align="justify">**Soboczenski, F.** (2018). An introduction to R - from simple statistics to machine learning applications. *First manuscript available on Github*</p>
+
+## Students advising 
+
+**Joyce Tlhoolebe - MSc**<br>
+Graduate student in Cyber-Security, University of York. *Object selection as a biometric authentication system*, (2016).
+
+**Qianyun Jiang - MSc**<br>
+Graduate student in Cyber-Security, University of York. *Malware Identification*, (2016).
+
+**Raya Al-Khayari - MSc**<br>
+Graduate student in Cyber-Security, University of York. *An analysis of vulnerability disclosure mechanisms*, (2016).
+
+**Rashid Al-Saidi - MSc**<br>
+Graduate student in Cyber-Security, University of York. *Detecting and distinguishing encrypted from compressed containers*, (2016).
+
+**Judith Borghouts - MSc** (Co-supervised with Dr. Paul Cairns)<br>
+Graduate student in Human-Centered Interactive Technologies, University of York. *The effect of different design features on reducing number-entry errors in medical devices*, (2013).
+
+**Aniket Datta - BSc**<br>
+Undergraduate student in Human-Centered Interactive Technologies, University of York. *Chevron interface studies on reducing number-entry errors in medical devices*, (2013).
 
 ## [Google scholar](https://scholar.google.com/citations?user=tLbQTZMAAAAJ&hl=en)
 
