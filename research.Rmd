@@ -88,7 +88,7 @@ Graduate student in Human-Centered Interactive Technologies, University of York.
 **Aniket Datta - BSc**<br>
 Undergraduate student in Human-Centered Interactive Technologies, University of York. *Chevron interface studies on reducing number-entry errors in medical devices*, (2013).
 
-## [Google scholar](https://scholar.google.com/citations?user=tLbQTZMAAAAJ&hl=en)
+## [Google scholar]()
 
 A full list of publications is available at the above Google scholar link.
 
