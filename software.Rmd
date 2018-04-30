@@ -14,7 +14,7 @@ There are several projects currently in development. Those range from NLP to Ima
 Also keep an eye on my [Github](https://github.com/h21k) repositories.<br> 
 
 ## IBM
-I am currently working on a <b>hyperledger</b> projet that utilises IBM's Bluemix platform.
+<!--I am currently working on a <b>hyperledger</b> project that utilises IBM's Bluemix platform.-->
 
 ## Google Apps Engine 
 
