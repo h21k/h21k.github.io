@@ -12,7 +12,7 @@ This page lists some of my work with NASA.<br>
 
 ## NASA Globe Program
 
-<p align="justify">I have been accepted to the [NASA Globe Program](https://www.globe.gov/) as SETM scientist in the area of artificial intelligence and machine-learning.<br>
+<p align="justify">I have been accepted to the [NASA Globe Program](https://www.globe.gov/) as STEM scientist in the area of artificial intelligence and machine-learning.<br>
 
 NASA Globe is a global science and education program supported by the [National Science Foundation](https://www.nsf.gov/), [National Oceanic and Athmospheric Administration](http://www.noaa.gov/) and the [United States Department of State](https://www.state.gov/).</p>
 
