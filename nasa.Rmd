@@ -52,7 +52,7 @@ Can we use data from Kepler, K2 and and human analysis to develop a method to im
 - [NASA Space Apps York 2014]()<br>
 - [NASA Space Apps York 2013]()<br>
 
-Our team [LaunchSight]() won the 2016 Challenge and was invited amonst other global winning teams to [NASA Kennedy Space Center](https://www.kennedyspacecenter.com/). We had the opportunity to meet so many amazing people and attend the [OSIRIS REx](https://www.asteroidmission.org/) mission launch. X the Z, Beth the C and R the x were among the many amazing people I've met at my time at NASA. 
+Our team [LaunchSight]() won the 2016 Challenge and was invited amonst other global winning teams to [NASA Kennedy Space Center](https://www.kennedyspacecenter.com/). We had the opportunity to meet so many amazing people and attend the [OSIRIS REx](https://www.asteroidmission.org/) mission launch. <!--X the Z, Beth the C and R the x were among the many amazing people I've met at my time at NASA. -->
 
 Pictures can be found here:.
  
