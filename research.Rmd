@@ -18,6 +18,10 @@ Human-Computer interaction focused on medical device and aviation systems safety
 
 ## Popular Media
 
+<p align="justify">I won the first **UK national 3Minutes Thesis Competition** in 2013 hosted at the University of Leeds:</p>
+
+<img src="3minutes.jpg" alt="3Minutes Thesis certificate" style="width:600px;height:400px;">
+
 <p align="justify">**Soboczenski, F.** “Sum up your thesis: Reducing number-entry errors in medical devices”,
 **Times Higher Education**, 2013. [https://goo.gl/oQrWSq](https://goo.gl/oQrWSq)</p>
 
