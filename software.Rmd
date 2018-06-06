@@ -14,7 +14,7 @@ output:
 Also keep an eye on my [Github](https://github.com/h21k) repositories.</p>
 
 ## IBM
-<p align="justify">I am part of a <b>hyperledger</b> project that utilises IBM's Bluemix platform.</p>
+<p align="justify">I am part of a <b>hyperledger</b> project that utilises IBM's Bluemix & Softlayer platform.</p>
 
 ## Facebook Artificial Intelligence Group
 <p align="justify">While mostly working with Tensorflow and Keras, I am currently exploring and devloping a <b>PyTorch</b> course on classifying Randomised Controlled Trials (RCTs).</p>
