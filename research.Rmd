@@ -31,6 +31,10 @@ Human-Computer interaction focused on medical device and aviation systems safety
 
 <p align="justify">**Soboczenski, F.**, Hudson M. & Cairns P., (2016). The Effects of Perceptual Interference on Number-Entry Errors. *Interacting with Computers (IwC)*, 28, vol (2), p. 208 - 218, doi: 10.1093/iwc/iwv034</p>
 
+<p align="justify">**Soboczenski, F.**, Hudson M. & Cairns P., (2016). The Effects of Perceptual Interference on Number-Entry Errors. *Interacting with Computers (IwC)*, 28, vol (2), p. 208 - 218, doi: 10.1093/iwc/iwv034</p>
+
+<p align="justify">**Soboczenski, F.**, Hudson M. & Cairns P., (2016). The Effects of Perceptual Interference on Number-Entry Errors. *Interacting with Computers (IwC)*, 28, vol (2), p. 208 - 218, doi: 10.1093/iwc/iwv034</p>
+
 ## Conference Publications
 
 <p align="justify">Griffin, D., Lesage, B., Bate, I., **Soboczenski, F.** & Davis, R., (2017). Forecast-Based Interference: Modelling Multicore Interference from Observable Factors. *Proceedings of the 25th International Conference on Real-Time Networks and Systems - RTNS ’17 *(2017).
