@@ -11,7 +11,7 @@ navbar:
       href: talks.html
     - text: "NASA"
       href: nasa.html
-    - text: "Development"
+    - text: "DevOps"
       href: software.html
     - text: "Outreach"
       href: outreach.html
