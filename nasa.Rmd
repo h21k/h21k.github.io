@@ -26,7 +26,7 @@ My pofile can be found [here](https://www.globe.gov/web/frank.soboczenski/home).
 
 My project pool that I'll be working on is:
 
-### Category II: Astrobiology (Team II)
+### Category I: Astrobiology (Team II)
 
 <p align="justify"><b>From biohints to confirmed evidence of life on exoplanets within given environmental substrates.</b><br>
 
@@ -39,7 +39,7 @@ The goal of this challenge would use many terabytes of historic SDO AIA images t
 Solar spectral irradiance is a critical factor for determining the properties of the Earth's upper atmosphere. Its short-term variability due to solar flares and CMEs could significantly disturb the upper atmosphere of the Earth and increase atmospheric drag on orbiting satellites. The goal of this challenge is to develop an AI model which uses SDO/AIA images to predict solar spectral irradiance (SSI) at Extreme Ultraviolet (EUV), and soft X-ray wavelengths. The EUV/X-ray SSI is an important energy input for terrestrial upper atmospheric models, which has important implications for everything from satellite orbital drag to the long-term evolution of the Earth’s atmosphere.</p>
  -->
  
-### Category I: Exoplanet Detection (TESS Mission Data)
+### Category II: Exoplanet Detection (TESS Mission Data)
 
 Description soon...
 <!-- <p align="justify"><b>Increase the efficacy and yield of exoplanets detection from TESS</b><br>
