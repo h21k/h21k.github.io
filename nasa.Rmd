@@ -41,12 +41,12 @@ Solar spectral irradiance is a critical factor for determining the properties of
  
 ### Category II: Exoplanet Detection (TESS Mission Data)
 
-Description soon...
+Description coming soon...
 <!-- <p align="justify"><b>Increase the efficacy and yield of exoplanets detection from TESS</b><br>
 TESS’s mission to discern credible exoplanet signatures is an imposing data task. Moreover any follow-up strategy to further examine interesting candidates is made more demanding because of a mission time constraint, where follow-ups need to be identified each and every month as the spacecraft changes its field of view. At the moment, diagnosis of Exoplanet candidates still requires manual analysis - an impossibly big challenge for humans in the time window available. This time crunch problem remains unresolved, but may be suited to AI approaches. Can we develop AI techniques to resolve the time window problem, by automating the classification analysis currently done by human experts?</p>
 
 <p align="justify"><b>Codify the process of AI derived exoplanet discovery and Cclassification to help TESS better discern rocky planets.</b><br>
-Can we use data from Kepler, K2 and and human analysis to develop a method to improve TESS’s ‘Lilith’ simulator factoring a range of stellar properties and occurrence rates and well as develop an ‘explainable AI’ that can learn to better discern rocky classifications as time goes on and identify the key features factored in the analysis? In addition to possible improvements to Lilith this challenge would look to identify improvements to the detection pipeline, not just in the transit detection but also upstream data reduction. I.e. what pixel calibration errors are most detrimental? how best to remove systematics? which systematics cause the most issues? and also identifying improved vetoes in the transiting planet search module.</p> --> -->
+Can we use data from Kepler, K2 and and human analysis to develop a method to improve TESS’s ‘Lilith’ simulator factoring a range of stellar properties and occurrence rates and well as develop an ‘explainable AI’ that can learn to better discern rocky classifications as time goes on and identify the key features factored in the analysis? In addition to possible improvements to Lilith this challenge would look to identify improvements to the detection pipeline, not just in the transit detection but also upstream data reduction. I.e. what pixel calibration errors are most detrimental? how best to remove systematics? which systematics cause the most issues? and also identifying improved vetoes in the transiting planet search module.</p> -->
 
 ## NASA Space Apps 
 
