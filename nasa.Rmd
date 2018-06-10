@@ -26,20 +26,20 @@ My pofile can be found [here](https://www.globe.gov/web/frank.soboczenski/home).
 
 My project pool that I'll be working on is:
 
-### Category I: Exoplanet Detection (TESS Mission Data)
+### Category II: Astrobiology (Team II)
 
-Description soon...
-<!-- <p align="justify"><b>Find new influences of solar dynamics on terrestrial systems</b><br>
-During the FDL 2017 program cycle, the “Solar-Terrestrial Interactions” team showed that neural nets could be trained to use solar wind data to predict the Kp Index (a measure of geomagnetic storm severity). This challenge proposes to take this initial step even further, and will use solar wind data from L1 satellite observatories, such as SOHO, to find new causality indications for solar-terrestrial interactions, such as global weather patterns, lightning strikes and - potentially even earthquakes.</p>
+<p align="justify"><b>From biohints to confirmed evidence of life on exoplanets within given environmental substrates.</b><br>
 
-<p align="justify"<b>Show tomorrow's sun today</b><br>
+Environmental change and biological evolution are intrinsically linked terrestrially, in a process known as coevolution. Therefore, it’s fair to hypothesize that extraterrestrial environments may have coevolved a broad range of alternative life processes markedly different to those we observe on Earth. Can we deploy AI techniques to generate an extended parameter space for possible metabolisms based on given (observed) environmental conditions and substrates: AKA “biohints” - potentially constrained by predictable behaviors of chemistry over a range of pressures and temperatures? This challenge would look at new tools to help determine if planetary data already gathered from Exoplanet Surveys contains biohints - in turn creating workflows to take these observed ingredients to produce plausible biochemistries and possible models of life on Exoplanets to inform further investigation.</p>
+
+<!-- <p align="justify"<b>Show tomorrow's sun today</b><br>
 The goal of this challenge would use many terabytes of historic SDO AIA images to build a neural net model to produce a forecast of what the sun will look like 24 hours into the future. The trained neural net model would ingest a time-series sequence of AIA images leading up to the present moment, and output an image of the sun as it is predicted to appear in 24 hours.</p>
 
 <p align="justify"><b>Predicting solar spectral irradiance from SDO/AIA observations</b><br>
 Solar spectral irradiance is a critical factor for determining the properties of the Earth's upper atmosphere. Its short-term variability due to solar flares and CMEs could significantly disturb the upper atmosphere of the Earth and increase atmospheric drag on orbiting satellites. The goal of this challenge is to develop an AI model which uses SDO/AIA images to predict solar spectral irradiance (SSI) at Extreme Ultraviolet (EUV), and soft X-ray wavelengths. The EUV/X-ray SSI is an important energy input for terrestrial upper atmospheric models, which has important implications for everything from satellite orbital drag to the long-term evolution of the Earth’s atmosphere.</p>
  -->
  
-### Category II: Astrobiology
+### Category I: Exoplanet Detection (TESS Mission Data)
 
 Description soon...
 <!-- <p align="justify"><b>Increase the efficacy and yield of exoplanets detection from TESS</b><br>
