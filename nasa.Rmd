@@ -20,7 +20,10 @@ My pofile can be found [here](https://www.globe.gov/web/frank.soboczenski/home).
 
 ## NASA FDL
 
-I am accepted and invited to join the legendary <b>NASA Frontier Development Lab (FDL)</b> at the [SETI Institute](https://www.seti.org/) in Mountain View, California.<br>
+<p align="justify">I am accepted and invited to join the legendary <b>NASA Frontier Development Lab (FDL)</b> at the [SETI Institute](https://www.seti.org/) in Mountain View, California.</p><br>
+
+<img src="images/fdl.png" alt="NASA invitation letter" style="width:380px;height:400px;"><p>Frontier Development Lab acceptance and invitation letter</p>
+
 My project pool that I'll be working on is:
 
 ### Category I: Exoplanet Detection (TESS Mission Data)
@@ -47,7 +50,7 @@ Can we use data from Kepler, K2 and and human analysis to develop a method to im
 
 ## NASA Space Apps 
 
-<p align="justify">For more than 5 years, I am active as lead-organiser or organising comittee member of the NASA Space Apps Challenge in York. I look back on many amazing memories and fantastic software development moments. More information can be found at [Space Apps Challenge](https://2017.spaceappschallenge.org/) or the previous York specific events:</p>
+<p align="justify">For more than five years, I am active as lead-organiser or organising comittee member of the NASA Space Apps Challenge in York. I look back on many amazing memories and fantastic software development moments. More information can be found at [Space Apps Challenge](https://2017.spaceappschallenge.org/) or the previous York specific events:</p>
 
 - [NASA Space Apps York 2017](https://2017.spaceappschallenge.org/locations/york/)<br>
 - [NASA Space Apps York 2016](https://2016.spaceappschallenge.org/locations/york-england)<br>
