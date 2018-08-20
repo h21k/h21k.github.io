@@ -39,10 +39,9 @@ The goal of this challenge would use many terabytes of historic SDO AIA images t
 Solar spectral irradiance is a critical factor for determining the properties of the Earth's upper atmosphere. Its short-term variability due to solar flares and CMEs could significantly disturb the upper atmosphere of the Earth and increase atmospheric drag on orbiting satellites. The goal of this challenge is to develop an AI model which uses SDO/AIA images to predict solar spectral irradiance (SSI) at Extreme Ultraviolet (EUV), and soft X-ray wavelengths. The EUV/X-ray SSI is an important energy input for terrestrial upper atmospheric models, which has important implications for everything from satellite orbital drag to the long-term evolution of the Earth’s atmosphere.</p>
  -->
  
-### Category II: Exoplanet Detection (TESS Mission Data)
+<!--  ### Category II: Exoplanet Detection (TESS Mission Data)
 
-Description coming soon...
-<!-- <p align="justify"><b>Increase the efficacy and yield of exoplanets detection from TESS</b><br>
+<p align="justify"><b>Increase the efficacy and yield of exoplanets detection from TESS</b><br>
 TESS’s mission to discern credible exoplanet signatures is an imposing data task. Moreover any follow-up strategy to further examine interesting candidates is made more demanding because of a mission time constraint, where follow-ups need to be identified each and every month as the spacecraft changes its field of view. At the moment, diagnosis of Exoplanet candidates still requires manual analysis - an impossibly big challenge for humans in the time window available. This time crunch problem remains unresolved, but may be suited to AI approaches. Can we develop AI techniques to resolve the time window problem, by automating the classification analysis currently done by human experts?</p>
 
 <p align="justify"><b>Codify the process of AI derived exoplanet discovery and Cclassification to help TESS better discern rocky planets.</b><br>
