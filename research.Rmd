@@ -16,11 +16,14 @@ Human-Computer interaction focused on medical device and aviation systems safety
 
 <p align="justify">I am currently working on the [Robotreviewer](http://www.robotreviewer.net/) (MRC/NIH Fellowship) project: working on novel methods for <b>automatic bias assessment</b> in systematic reviews based on <b>natural language processing</b> and state-of-the-art <b>deep-learning algorithms</b>; supervising user-experience studies; evaluating neural text extraction and classification models</p>
 
+## Research Grant
+<p align="justify">My research is supported by [NVIDIA Corporation](http://www.nvidia.com/) via the [NVIDIA academic GPU grant program](https://developer.nvidia.com/academic_gpu_seeding).</p>
+
 ## Popular Media
 
 <p align="justify">I won the first **UK national 3Minutes Thesis Competition** in 2013 hosted by the University of Leeds:</p>
 
-<img src="3minutes.jpg" alt="3Minutes Thesis certificate" style="width:600px;height:400px;">
+<img src="3minutes.jpg" alt="3Minutes Thesis certificate" style="width:300px;height:150px;">
 
 <p align="justify">**Soboczenski, F.** “Sum up your thesis: Reducing number-entry errors in medical devices”,
 **Times Higher Education**, 2013. [https://goo.gl/oQrWSq](https://goo.gl/oQrWSq)</p>
