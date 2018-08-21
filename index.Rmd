@@ -15,5 +15,6 @@
 
 <p align="justify">I am a known R Ninja, currently organising the [R User Group](https://www.kcl.ac.uk) at King's College.</p>
 
+<p align="justify">My research is supported by [NVIDIA Corporation](http://www.nvidia.com/).</p>
 _________
 This website was created in [R](https://www.r-project.org)! 
