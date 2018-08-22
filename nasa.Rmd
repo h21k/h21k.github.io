@@ -26,7 +26,7 @@ My pofile can be found [here](https://www.globe.gov/web/frank.soboczenski/home).
 
 My project that I'll be working on is:
 
-### Astrobiology (Team II)
+#### Astrobiology Team II
 
 <p align="justify"><b>From biohints to confirmed evidence of life on exoplanets within given environmental substrates.</b></p>
 
