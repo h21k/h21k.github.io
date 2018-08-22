@@ -20,7 +20,7 @@ My pofile can be found [here](https://www.globe.gov/web/frank.soboczenski/home).
 
 ## NASA FDL
 
-<p align="justify">I am accepted and invited to join the legendary <b>NASA Frontier Development Lab (FDL)</b> at the [SETI Institute](https://www.seti.org/) in Mountain View, California.</p><br>
+<p align="justify">I am accepted and invited to join the legendary <b>NASA Frontier Development Lab (FDL)</b> at the [SETI Institute](https://www.seti.org/) in Mountain View, California.</p>
 
 <img src="images/fdl.png" alt="NASA invitation letter" style="width:380px;height:400px;"><p>Frontier Development Lab acceptance and invitation letter</p>
 
