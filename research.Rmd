@@ -9,8 +9,7 @@ output:
 
 ## Research Interests
 
-<p align="justify">
-Human-Computer interaction focused on medical device and aviation systems safety including big data analysis, visualisation & artificial intelligence in healthcare: human error, empirical studies, number-entry perceptual interference, disfluencey, cognitive theory, augmented reality, probabilistic timing analysis, software modeling, autonomous systems, robotics, unmanned-areal vehicle control systems, flight-deck system safety, cyber-security, forensics, deep-learning, machine-learning</p>
+<p align="justify">Artificial intelligence (deep learning/machine learning), baysian analytics and human-computer interaction focused on medical device and aviation systems safety including big data analysis & visualisation: human error, empirical studies, perceptual interference, disfluencey, cognitive theory, augmented reality, probabilistic timing analysis, software modeling, autonomous systems, robotics, unmanned-areal vehicle control systems, flight-deck system safety, cyber-security, forensics</p>
 
 ## Current focus at King's College London
 
