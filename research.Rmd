@@ -29,11 +29,13 @@ output:
 
 <p align="justify">**Soboczenski, F.** "Gone in 180 Seconds”,  **Times Higher Education **, 2013. [https://www.timeshighereducation.com/gone-in-180-seconds/2005390.article](https://www.timeshighereducation.com/gone-in-180-seconds/2005390.article)</p>
 
+<p align="justify">**NASA Ames Research Center, Press Release** "NASA FDL: Speeding innovation for artificial intelligence”,  **National Aeronautics and Space Administration**, 2018. [https://www.nasa.gov/ames/nasa-frontier-development-lab](https://www.nasa.gov/ames/nasa-frontier-development-lab)</p>
+
 ## Referred Journal Articles
 
-<p align="justify">**Soboczenski, F.**, Hudson M. & Cairns P., (2016). The Effects of Perceptual Interference on Number-Entry Errors. *Interacting with Computers (IwC)*, 28, vol (2), p. 208 - 218, doi: 10.1093/iwc/iwv034</p>
+<p align="justify">**Soboczenski, F.**, Trikalinos T., Kuiper J., Bias R., Wallace, B. & Marshall I., (2018). Machine learning to help researchers evaluate biases in clinical trials: a prospective, randomized user study. *Journal of American Medical Informatics Association*, in review</p>
 
-<p align="justify">**Soboczenski, F.**, Hudson M. & Cairns P., (2016). The Effects of Perceptual Interference on Number-Entry Errors. *Interacting with Computers (IwC)*, 28, vol (2), p. 208 - 218, doi: 10.1093/iwc/iwv034</p>
+<p align="justify">**Soboczenski, F.**, Trikalinos T., Kuiper J., Bias R., Wallace, B. & Marshall I., (2018). Machine learning to help researchers evaluate biases in clinical trials: a prospective, randomized user study. *Journal of American Medical Informatics Association*, in review</p>
 
 <p align="justify">**Soboczenski, F.**, Hudson M. & Cairns P., (2016). The Effects of Perceptual Interference on Number-Entry Errors. *Interacting with Computers (IwC)*, 28, vol (2), p. 208 - 218, doi: 10.1093/iwc/iwv034</p>
 
