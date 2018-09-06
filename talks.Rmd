@@ -9,10 +9,14 @@ output:
 
 ## Upcoming
 
+2018 [AI Tech World / London Tensorflow](http://aitechworld.net/): <b>*NASA FDL Project*</b> (more info soon)<br>
 2018 Google Campus: <b>*RobotReviewer*</b><br>
-2018 IBM: <b>*RobotReviewer: Automatic Evidence Synthesis for Randomised Controlled Trials*</b><br>
 2018 King's College: <b>*RobotReviewer Day*</b><br>
 2018 King's College R User Group: <b>*Using Jupyter Notebooks with R*</b><br>
+
+<!-- 
+2018 IBM: <b>*RobotReviewer: Automatic Evidence Synthesis for Randomised Controlled Trials*</b><br>
+-->
 
 ## Invited Speaker
 
