@@ -24,9 +24,11 @@ My pofile can be found [here](https://www.globe.gov/web/frank.soboczenski/home).
 
 <img src="images/fdl.png" alt="NASA invitation letter" style="width:380px;height:400px;"><p>Frontier Development Lab acceptance and invitation letter</p>
 
-My project that I'll be working on is:
+<img src="images/AmesFDL.jpg" alt="NASA FDL Group Picture" style="width:380px;height:280px;"><p>NASA Frontier Development Lab 2018 Group Picture</p>
 
-#### Astrobiology Team II - supported and partnered with [Google Cloud](https://cloud.google.com/)
+My project that I am continue to work on is:
+
+#### Astrobiology Team II - partnered with [Google Cloud](https://cloud.google.com/)
 
 <p align="justify"><b>From biohints to confirmed evidence of life on exoplanets within given environmental substrates.</b></p>
 
