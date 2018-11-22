@@ -71,6 +71,8 @@ output:
 
 ## Conference Posters
 
+<p align="justify">**Soboczenski, F.**, Himes, M. D., O'Beirne, M. D., Zorzan, S., Baydin, A. G., Cobb, A. D., Angerhausen, D., Arney, G. N. & Domagal-Goldman, S. D. INARA: Intelligent exoplaNet Atmospheric RetrievAl. *Deep Learning Workshop at the 32nd Conference on Neural Information Processing Systems (NIPS)*, Montreal, (2018).
+
 <p align="justify">**Soboczenski, F.** (2014). 5-Key interfaces for medical devices. *British Computer Society - Doctoral Consortium on design and interfaces*.</p>
 
 <p align="justify">**Soboczenski, F.** (2013). Reducing Number-Entry Errors in Healthcare. *Poster presented at the BCS Health Informatics Conference Scotland* 2013</p>
