@@ -9,7 +9,7 @@ output:
 
 ## Research Interests
 
-<p align="justify">Artificial intelligence (deep learning/machine learning), bayesian analytics and human-computer interaction focused on medical device as well as aviation systems safety including big data analysis & visualisation: human error, empirical studies, perceptual interference, disfluencey, cognitive theory, augmented reality, probabilistic timing analysis, software modeling, autonomous systems, robotics, unmanned-areal vehicle control systems, flight-deck system safety, cyber-security, forensics</p>
+<p align="justify">Machine learning, natural-language processing, bayesian neural networks & analytics, neural extraction & classification, human-computer interaction focused on medical device as well as aviation systems safety including big data analysis & visualisation: human er- ror, empirical experimentation, perceptual interference, probabilistic timing analysis, software modeling, autonomous systems, robotics, unmanned-areal vehicle control systems, flight-deck system safety, digital ledger, cyber-security, forensics</p>
 
 ## Current focus at King's College London
 
@@ -30,6 +30,13 @@ output:
 <p align="justify">**Soboczenski, F.** "Gone in 180 Seconds”,  **Times Higher Education **, 2013. [https://www.timeshighereducation.com/gone-in-180-seconds/2005390.article](https://www.timeshighereducation.com/gone-in-180-seconds/2005390.article)</p>
 
 <p align="justify">**NASA Ames Research Center, Press Release** "NASA FDL: Speeding innovation for artificial intelligence”,  **National Aeronautics and Space Administration**, 2018. [https://www.nasa.gov/ames/nasa-frontier-development-lab](https://www.nasa.gov/ames/nasa-frontier-development-lab)</p>
+
+<p align="justify">**NASA Frontier Development Lab Intel Presentation**, 2018. 
+[https://goo.gl/G4mzZx](https://goo.gl/G4mzZx)</p>
+
+<p align="justify">**Astrobiology Web Press Release**, Astrobiology.com, 2018.
+[http://astrobiology.com/2018/
+11/bayesian-deep-learning-for-exoplanet-atmospheric-retrieval.html](http://astrobiology.com/2018/11/bayesian-deep-learning-for-exoplanet-atmospheric-retrieval.html)</p>
 
 ## Referred Journal Articles
 
