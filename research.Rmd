@@ -48,6 +48,9 @@ output:
 
 ## Conference Publications
 
+<p align="justify">**Soboczenski, F.**, Himes, M. D., O'Beirne, M. D., Zorzan, S., Baydin, A. G., Cobb, A. D., Angerhausen, D., Arney, G. N. & Domagal-Goldman, S. D. Bayesian Deep Learning for Exoplanet Atmospheric Retrieval. *Accepted to the Bayesian Deep Learning Workshop at the 32nd Conference on Neural Information Processing Systems (NIPS)*, Montreal, (2018).
+
+
 <p align="justify">Griffin, D., Lesage, B., Bate, I., **Soboczenski, F.** & Davis, R., (2017). Forecast-Based Interference: Modelling Multicore Interference from Observable Factors. *Proceedings of the 25th International Conference on Real-Time Networks and Systems - RTNS ’17 *(2017).
 </p>
 <p align="justify">Lesage, B., Griffin, D., Bate, I. & **Soboczenski, F.**, (2017). Exploring and Understanding Multicore Interference from Observable Factors. *In Proceedings of Automotive - Safety & Security* (2017)</p>
