@@ -12,11 +12,15 @@ This page lists some of my work with NASA.<br>
 
 ## NASA Technosignatures Workshop
 
-More news on this amazing project, soon!!
+
+On x 2018 NASA together with USRA hosted the first Technosignatures workshop in Houston Texas. 
 <!-- <p align="justify">I have been accepted to the [NASA Globe Program](https://www.globe.gov/) as STEM scientist in the area of artificial intelligence and machine-learning.<br>
 
 NASA Globe is a global science and education program supported by the [National Science Foundation](https://www.nsf.gov/), [National Oceanic and Athmospheric Administration](http://www.noaa.gov/) and the [United States Department of State](https://www.state.gov/).</p> -->
 
+<p align="justify">The report has now been submitted to NASA management, the United States Conress and is available to the public here:</p><br>
+
+<p align="justify">NASA and the Search for Technosignatures: A Report from the NASA Technosignatures Workshop. Joint Strategic Conference Report to NASA Management & U.S. Congress (2018) NASA Technosignatures Workshop Houston, Texas. Available at https://arxiv.org/abs/1812.08681.</p>
 
 ## NASA Globe Program
 

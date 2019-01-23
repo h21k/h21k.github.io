@@ -81,13 +81,15 @@ output:
 
 ## Other Publications
 
+<p align="justify">Himes, M. D., O'Beirne, M. D., **Soboczenski, F.**, Zorzan, S., Baydin, A. G., Cobb, A. D., Angerhausen, D., Arney, G. N. & Domagal-Goldman, S. D. (2018) NASA Fron- tier Development Lab: Astrobiology Team II: From Biohints to Confirmed Evidence of Life: Possible Metabolisms Within Extraterrestrial Environmental Substrates. NASA Technical Memorandum, submitted and under review by the agency.</p>
+
 <p align="justify">**Soboczenski, F.** (2014) The Effect of Interface Elements on Transcription Tasks to Reduce Number-Entry Errors. *PhD thesis, University of York*.</p>
 
 <p align="justify">**Soboczenski, F.** (2009) Ontology Based Modeling Rules for the Unified Modeling Language (UML). *Diploma thesis, Deggendorf Institute of Technology, Germany*.</p>
 
 ## Items in preparation
 
-<p align="justify">**Soboczenski, F.**, X & Y, (2018). Now you see me - counterintuitive solutions to reduce human error.</p>
+<!--<p align="justify">**Soboczenski, F.**, X & Y, (2018). Now you see me - counterintuitive solutions to reduce human error.</p>-->
 
 <p align="justify">**Soboczenski, F.** (2018). An introduction to R - from simple statistics to machine learning applications. *First manuscript available on Github*</p>
 
