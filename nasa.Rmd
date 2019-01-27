@@ -27,7 +27,7 @@ NASA Globe is a global science and education program supported by the [National 
 
 <p align="justify">NASA and the Search for Technosignatures: A Report from the NASA Technosignatures Workshop. Joint Strategic Conference Report to NASA Management & U.S. Congress (2018) NASA Technosignatures Workshop Houston, Texas. Available at https://arxiv.org/abs/1812.08681.</p>
 
-<img src="images/NASAGroup.jpg" alt="NASA Technosignatures Workshop Attendees" style="width:550px;height:400px;"><p>NASA Technosignatures Workshop Attendees @ Lunar Planetary Institute, Houston Texas</p>
+<img src="images/NASAGroup.jpg" alt="NASA Technosignatures Workshop Attendees" style="width:800px;height:500px;"><p>NASA Technosignatures Workshop Attendees @ Lunar Planetary Institute in Houston, Texas</p>
 
 ## NASA Globe Program
 
