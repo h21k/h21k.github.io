@@ -87,4 +87,7 @@ Additional pictures can be found here: (link soon available).
  
 ## NASA ENSPIRES 
 
+<p align="justify">More about my activities on this end soon...</p>
+
+
 <!--<p align="justify">I currently serve as program reviewer for the Translational Research Institute for Space Health (TRISH) project under the Biomedical Research Advances for Space Health (BRASH) branch.</p>  -->
