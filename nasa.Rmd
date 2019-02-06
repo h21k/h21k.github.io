@@ -15,9 +15,9 @@ This page lists some of my work with NASA.<br>
 <p align="justify">In 2018 NASA together with the Universities Space Research Association (USRA) hosted the first Technosignatures workshop at the Lunar
 Planetary Institute (LPI) in Houston Texas. I was very funtunate to be one of the workshop memebers attending this very special event.</p>
 
-<p align="justify">I was privilleged to be able to present our NASA FDL work (live-streamed on NASA TV) about Bay and INARA.</p>
+<p align="justify">I was privilleged to be able to present our NASA FDL work (live-streamed on NASA TV) about Bayesian Deep Learning and the INARA framework.</p>
 
-<img src="images/NASATV.jpg" alt="Frank Soboczenski presenting live on NASA TV" style="width:400px;height:300px;"><p>Frank Soboczenski presenting at the workshop and live on NASA TV</p>
+<img src="images/NASATV.jpg" alt="Frank presenting live on NASA TV" style="width:400px;height:300px;"><p>Frank presenting at the workshop and live on NASA TV</p>
 
 <!-- <p align="justify">I have been accepted to the [NASA Globe Program](https://www.globe.gov/) as STEM scientist in the area of artificial intelligence and machine-learning.<br>
 
