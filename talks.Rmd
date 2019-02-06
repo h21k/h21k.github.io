@@ -31,6 +31,10 @@ output:
 
 ## Conference Talks
 
+Bayesian Deep Learning for Exoplanet Atmospheric Retrieval. Bayesian Deep Learning Workshop at the 32nd Conference on Neural Information Processing Systems (NeurIPS), Montreal
+
+<p align="justify">2018 <b>*Bayesian Deep Learning for Exoplanet Atmospheric Retrieval.*</b> Bayesian Deep Learning Workshop at the 32nd Conference on Neural Information Processing Systems (NeurIPS), Montreal <b>*Presented by [Michael Himes](https://sciences.ucf.edu/physics/people/himes-michael/)*</b></p>
+
 <p align="justify">2018 <b>*Deep learning for exoplanet atmospheric retrievals.*</b> NASA Technosignatures workshop Houston, Texas<br></p>
 
 <p align="justify">2015 <b>*Study of the Reliability of Statistical Timing Analysis for Real-Time Systems.*</b> 23rd International Conference on Real Time and Networks Systems - RTNS'15<br></p>
