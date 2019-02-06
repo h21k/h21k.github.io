@@ -31,11 +31,11 @@ output:
 
 ## Conference Talks
 
-2015 <b>*Study of the Reliability of Statistical Timing Analysis for Real-Time Systems.*</b> 23rd International Conference on Real Time and Networks Systems - RTNS'15<br>
+<p align="justify">2018 <b>*Deep learning for exoplanet atmospheric retrievals.*</b> NASA Technosignatures workshop Houston, Texas<br></p>
 
-2014 <b>*The Effects of Perceptual Interference on Number-Entry Errors.*</b> First Int. conf. on Interaction Design and Human Factors, Kochi Japan</br>
+<p align="justify">2015 <b>*Study of the Reliability of Statistical Timing Analysis for Real-Time Systems.*</b> 23rd International Conference on Real Time and Networks Systems - RTNS'15<br></p>
 
-2013 <b>*Increasing Accuracy by Decreasing Presentation Quality in Transcription Tasks.*</b> Interact Capetown</br>
+<p align="justify">2014 <b>*The Effects of Perceptual Interference on Number-Entry Errors.*</b> First Int. conf. on Interaction Design and Human Factors, Kochi Japan</br></p>
 
-
+<p align="justify">2013 <b>*Increasing Accuracy by Decreasing Presentation Quality in Transcription Tasks.*</b> Interact Capetown</br></p>
 
