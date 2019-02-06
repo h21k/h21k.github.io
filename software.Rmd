@@ -45,4 +45,4 @@ Also keep an eye on my [Github](https://github.com/h21k) repositories.</p>
 
 - R, Shiny, C++, Python, Java, Flask, Ada, Raspbian, and many more...
 
-<p align="justify">You can find most of my public codes on [Github](https://www.github.com/h21k) or [Gitlab](https://gitlab.com/h21k). Feel free to [contact me](contact.html) about specific requests on tools or if you want me to join your research team.</p>
+<p align="justify">You can find most of my public code on [Github](https://www.github.com/h21k) or [Gitlab](https://gitlab.com/h21k). Feel free to [contact me](contact.html) about specific requests on tools or if you want me to join your research team.</p>
