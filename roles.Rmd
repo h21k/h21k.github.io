@@ -12,6 +12,7 @@ output:
 ### General
 
 - [The 57th Annual Meeting of the Association for Computational Linguistics (ACL)](http://www.acl2019.org/EN/index.xhtml) Program Committee (Machine Learning)<br>
+- [American Medical Informatics Association (AMIA) Annual Symposiumn 2019](https://www.amia.org/amia2019) Program Committe<br>
 - [IEEE Journal of Biomedical and Health Informatics](https://jbhi.embs.org/) Reviewer<br>
 
 ### King's College London
