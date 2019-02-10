@@ -17,7 +17,7 @@ Planetary Institute (LPI) in Houston Texas. I was very funtunate to be one of th
 
 <p align="justify">I was privilleged to be able to present our NASA FDL work (live-streamed on NASA TV) about Bayesian Deep Learning and the INARA framework.</p>
 
-<img src="images/NASATV.jpg" alt="Frank presenting live on NASA TV" style="width:400px;height:300px;"><p>Frank presenting at the workshop and live on NASA TV</p>
+<img src="images/NASATV.jpg" alt="Frank presenting live on NASA TV" style="width:400px;height:300px;"><p>My presentation at the workshop and live on NASA TV</p>
 
 <!-- <p align="justify">I have been accepted to the [NASA Globe Program](https://www.globe.gov/) as STEM scientist in the area of artificial intelligence and machine-learning.<br>
 
@@ -27,7 +27,7 @@ NASA Globe is a global science and education program supported by the [National 
 
 <p align="justify">NASA and the Search for Technosignatures: A Report from the NASA Technosignatures Workshop. Joint Strategic Conference Report to NASA Management & U.S. Congress (2018) NASA Technosignatures Workshop Houston, Texas. Available at https://arxiv.org/abs/1812.08681.</p>
 
-<img src="images/NASAGroup.jpg" alt="NASA Technosignatures Workshop Attendees" style="width:800px;height:500px;"><p>NASA Technosignatures Workshop Attendees @ Lunar Planetary Institute in Houston, Texas</p>
+<img src="images/NASAGroup.jpg" alt="NASA Technosignatures Workshop Attendees" style="width:600px;height:400px;"><p>NASA Technosignatures Workshop Attendees @ Lunar Planetary Institute in Houston, Texas</p>
 
 ## NASA Globe Program
 
@@ -43,7 +43,7 @@ My pofile can be found [here](https://www.globe.gov/web/frank.soboczenski/home).
 
 <img src="images/fdl.png" alt="NASA invitation letter" style="width:380px;height:400px;"><p>Frontier Development Lab acceptance and invitation letter</p>
 
-<img src="images/AmesFDL.jpg" alt="NASA FDL Group Picture" style="width:380px;height:280px;"><p>NASA Frontier Development Lab 2018 Group Picture</p>
+<img src="images/AmesFDL.jpg" alt="NASA FDL Group Picture" style="width:600px;height:380px;"><p>NASA Frontier Development Lab 2018 Group Picture</p>
 
 My project that I am continue to work on is:
 
