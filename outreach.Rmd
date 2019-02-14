@@ -12,7 +12,7 @@ output:
 - [NASA Space Apps Challenge](https://www.spaceappschallenge.org) I'll help organising this year's NASA Space Apps <b>-> more news soon<-</b><br>
 - [13th Excellence in Teaching Conference](https://www.kcl.ac.uk/academy/educators-network/Excellence-in-Teaching-Conference.aspx) I plan to lead a workshop on modern teaching & research technology <b>-> more news soon<-</b><br>
 - RobotReviewer Day I'll be heading an outreach event on our project software and its capabilities <b>-> more news soon<-</b><br>
-- Machine Learning for Health Researhcers I'll be leading this workshop at King's College London <b>-> more news soon<-</b><br>
+- Machine Learning for Health Researchers I'll be leading this workshop at King's College London <b>-> more news soon<-</b><br>
 - NASA GLOBE STEM Event I'm working on hosting this School event <b>-> more news soon<-</b><br>
 
 ## Past Events
