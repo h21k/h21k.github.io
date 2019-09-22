@@ -9,8 +9,8 @@ output:
 
 ## Upcoming
 
-MPH Masters of Public Health, King's College London
-Teaching visit at Beijing Jiaotong University, Beijing
+<p>MPH Masters of Public Health, King's College London, UK</p><br>
+<p>Teaching visit at Beijing Jiaotong University, Beijing</p>
 
 ## Courses & Tutorials
 

@@ -11,10 +11,10 @@ output:
 
 ### General
 
-- [ML4PS: Machine Learning for Health Workshop at NeurIPS 2019](https://ml4health.github.io) Program Committee/Reviewer<br>
+- [ML4PS: Machine Learning and the Physical Sciences - Workshop at the 33rd Conference on Neural Information Processing Systems (NeurIPS), 2019](https://ml4physicalsciences.github.io) Program Committee/Reviewer<br>
 - [ML4HL: Machine Learning for Health Workshop at NeurIPS 2019](https://ml4health.github.io) Program Committee/Reviewer<br>
 - [The 57th Annual Meeting of the Association for Computational Linguistics (ACL)](http://www.acl2019.org/EN/index.xhtml) Program Committee (Machine Learning)<br>
-- [American Medical Informatics Association (AMIA) Annual Symposiumn 2019](https://www.amia.org/amia2019) Program Committe<br>
+- [American Medical Informatics Association (AMIA) Annual Symposiumn 2019](https://www.amia.org/amia2019) Reviewer<br>
 - [DataKind & Google.AI](http://www.datakind.org) Impact Challenge Reviewer<br>
 - [IEEE Journal of Biomedical and Health Informatics](https://jbhi.embs.org/) Reviewer<br>
 
