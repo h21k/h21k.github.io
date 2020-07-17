@@ -31,13 +31,28 @@ NASA Globe is a global science and education program supported by the [National 
 
 ## NASA Globe Program
 
-<p align="justify">I have been accepted to the [NASA Globe Program](https://www.globe.gov/) as STEM scientist in the area of artificial intelligence and machine-learning.<br>
+<p align="justify">I have been accepted to the [NASA Globe Program](https://www.globe.gov/) as GIGN member and STEM scientist in the area of artificial intelligence and machine-learning.<br>
 
 NASA Globe is a global science and education program supported by the [National Science Foundation](https://www.nsf.gov/), [National Oceanic and Athmospheric Administration](http://www.noaa.gov/) and the [United States Department of State](https://www.state.gov/).</p>
+
+My Roles were/are:
+- judge19
+- judge20
+- mentor
+
+Mentor Certificate
+
 
 My pofile can be found [here](https://www.globe.gov/web/frank.soboczenski/home).
 
 ## NASA FDL
+
+2019 stuff AH & Lunar
+2019 Prize Data Samaritan
+
+2020 Challenge host Oxford
+
+
 
 <p align="justify">I am accepted and invited to join the legendary <b>NASA Frontier Development Lab (FDL)</b> at the [SETI Institute](https://www.seti.org/) in Mountain View, California.</p>
 
@@ -69,6 +84,15 @@ TESS’s mission to discern credible exoplanet signatures is an imposing data ta
 <p align="justify"><b>Codify the process of AI derived exoplanet discovery and Cclassification to help TESS better discern rocky planets.</b><br>
 Can we use data from Kepler, K2 and and human analysis to develop a method to improve TESS’s ‘Lilith’ simulator factoring a range of stellar properties and occurrence rates and well as develop an ‘explainable AI’ that can learn to better discern rocky classifications as time goes on and identify the key features factored in the analysis? In addition to possible improvements to Lilith this challenge would look to identify improvements to the detection pipeline, not just in the transit detection but also upstream data reduction. I.e. what pixel calibration errors are most detrimental? how best to remove systematics? which systematics cause the most issues? and also identifying improved vetoes in the transiting planet search module.</p> -->
 
+## NASA ENSPIRES 
+
+<p align="justify">More about my activities on this end soon...</p>
+reviewer for TRISH
+reviewer for x
+Submitted NASA FDL - ASTROBIOLOGY 
+Submitted NASA FDL - GRAVITAIONAL WAVE DETECTION
+
+
 ## NASA Space Apps 
 
 <p align="justify">For more than five years, I am active as lead-organiser or organising comittee member of the NASA Space Apps Challenge in York. I look back on many amazing memories and fantastic software development moments. More information can be found at [Space Apps Challenge](https://2017.spaceappschallenge.org/) or the previous York specific events:</p>
@@ -85,9 +109,6 @@ Our team [LaunchSight]() won the 2016 Challenge and was invited amonst other glo
 
 Additional pictures can be found here: (link soon available).
  
-## NASA ENSPIRES 
-
-<p align="justify">More about my activities on this end soon...</p>
 
 
 <!--<p align="justify">I currently serve as program reviewer for the Translational Research Institute for Space Health (TRISH) project under the Biomedical Research Advances for Space Health (BRASH) branch.</p>  -->

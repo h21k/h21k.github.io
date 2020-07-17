@@ -11,7 +11,7 @@ output:
 
 <p align="justify">Machine learning, natural-language processing, bayesian neural networks & analytics, neural extraction & classification, human-computer interaction focused on medical device as well as aviation systems safety including big data analysis & visualisation: human er- ror, empirical experimentation, perceptual interference, probabilistic timing analysis, software modeling, autonomous systems, robotics, unmanned-areal vehicle control systems, flight-deck system safety, digital ledger, cyber-security, forensics</p>
 
-## Current focus at King's College London
+## King's College London
 
 <p align="justify">I am currently working on the [Robotreviewer](http://www.robotreviewer.net/) (MRC/NIH Fellowship) project: working on novel methods for <b>automatic bias assessment</b> in systematic reviews based on <b>natural language processing</b> and state-of-the-art <b>deep-learning algorithms</b>; supervising user-experience studies; evaluating neural text extraction and classification models</p>
 

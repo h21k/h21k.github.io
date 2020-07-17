@@ -15,8 +15,17 @@
 
 <p align="justify">I graduated from the [Deggendorf Institute of Technology](https://www.th-deg.de/en) in cooperation with the [German Research Center for Artificial Intelligence](https://www.dfki.de/web) and was awarded with a PhD for my work on reducing transcription errors (numerical and textual) of medical devices under the advisement of [Prof. Paul Cairns](https://www-users.cs.york.ac.uk/~pcairns/) and [Prof. Richard Paige](https://www.cs.york.ac.uk/people/paige) at the [University of York](https://cs.york.ac.uk).</p>
 
-<p align="justify">I am a known R Ninja, currently organising the [R User Group](https://www.kcl.ac.uk) at King's College and joined the [NASA Frontier Development Lab](https://frontierdevelopmentlab.org/) (FDL) as AI researcher in 2018. Most recently, I supported the [Astronaut Health](https://frontierdevelopmentlab.org/blog/2019/7/5/introducing-the-2019-astronaut-mentors) & [Lunar Resource Mapping: Data Fusion and Super Resolution](https://frontierdevelopmentlab.org/blog/2019/7/5/introducing-the-2019-lunar-mentors) teams as AI/ML mentor during the 2019 edition of FDL.</p>
+<p align="justify">I am a known R Ninja, currently organising the [R User Group](https://www.kcl.ac.uk) at King's College and joined the [Frontier Development Lab (NASA Partner)](https://frontierdevelopmentlab.org/) (FDL) as AI researcher in 2018. Most recently, I supported the [Astronaut Health](https://frontierdevelopmentlab.org/blog/2019/7/5/introducing-the-2019-astronaut-mentors) & [Lunar Resource Mapping: Data Fusion and Super Resolution](https://frontierdevelopmentlab.org/blog/2019/7/5/introducing-the-2019-lunar-mentors) teams as AI/ML mentor during the 2019 edition of FDL.</p>
 
 <p align="justify">My research is supported by [NVIDIA Corporation](http://www.nvidia.com/).</p>
-_________
+
 This website was created in [R](https://www.r-project.org)! 
+
+_________
+
+<b>INFO: This webpage is outdated an will be updated in a few weeks!</b>
+
+Latest research:                Upcoming event: 
+
+
+<!--updates on : conference articles, presentations, talks, springer, teaching upcoming MPH, Speaking (Micosoft - Krittika, BBC, GTC, NASA Galvaston, NASA JPL, FDL 2020, Mentor 2019 stuff, NSPIRES, MooonRaiders, -->

@@ -8,56 +8,44 @@ output:
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 ## Title
-
-<p>Treatments of Primary Basal Cell Carcinoma of the Skin</p><br>
+<p>Treatments of Primary Basal Cell Carcinoma of the Skin</p>
 
 ### Subtitle
 <p>A Systematic Review and Network Meta-analysis</p>
 
-## Courses & Tutorials
+## Abstract
 
-I am in the process of creating an R online course as well as one for deep-learning. More on that, soon!<br>
-In the meantime you can find materials related to tutorials I have presented on my [Github](https://github.com/h21k).
+Background: Most interventions for basal cell carcinoma (BCC) have not been compared in head-to-head randomized trials.
+Purpose: To evaluate the comparative effectiveness and safety of treatments of primary BCC in adults.
+Data Sources: English-language searches of MEDLINE, Coch- rane Central Register of Controlled Trials, Cochrane Database of Systematic Reviews, and Embase from inception to May 2018; reference lists of guidelines and systematic reviews; and a search of ClinicalTrials.gov in August 2016.
+Study Selection: Comparative studies of treatments currently used in adults with primary BCC.
+Data Extraction: One investigator extracted data on recur- rence, histologic clearance, clinical clearance, cosmetic out- comes, quality of life, and mortality, and a second reviewer veri- fied extractions. Several investigators evaluated risk of bias for each study.
 
-I also have an R book in manuscript form that I plan to publish sometime this year. 
+Data Synthesis: Forty randomized trials and 5 nonrandomized studies compared 18 interventions in 9 categories. Relative inter- vention effects and mean outcome frequencies were estimated using frequentist network meta-analyses. Estimated recurrence rates were similar for excision (3.8% [95% CI, 1.5% to 9.5%]), Mohs surgery (3.8% [CI, 0.7% to 18.2%]), curettage and dia- thermy (6.9% [CI, 0.9% to 36.6%]), and external-beam radiation (3.5% [CI, 0.7% to 16.8%]). Recurrence rates were higher for cryotherapy (22.3% [CI, 10.2% to 42.0%]), curettage and cryo- therapy (19.9% [CI, 4.6% to 56.1%]), 5-fluorouracil (18.8% [CI, 10.1% to 32.5%]), imiquimod (14.1% [CI, 5.4% to 32.4%]), and photodynamic therapy using methyl-aminolevulinic acid (18.8% [CI, 10.1% to 32.5%]) or aminolevulinic acid (16.6% [CI, 7.5% to 32.8%]). 
 
-## King's College London
+Automatic Evicence Updates
 
-Fall 2017:<br> 
-<b>Masters of Public Health</b> Tutorials<br>
-<b>R in Medical Reseaech</b> Tutorials<br>
-<b>Statistics I</b> Teaching assistant<br>
+Limitation: Data are sparse, and effect estimates are imprecise and informed by indirect comparisons.
+Conclusion: Surgical treatments and external-beam radiation have low recurrence rates for the treatment of low-risk BCC, but substantial uncertainty exists about their comparative effective- ness versus other treatments. Gaps remain regarding high-risk BCC subtypes and important outcomes, including costs.
+Primary Funding Source: Agency for Healthcare Research and Quality. (PROSPERO: CRD42016043353).
 
-## University of York
+## Results
 
-2016<br> 
-<b>MSc in of Cyber-Security</b> Asssociate Lecturer<br>
+The literature searches returned 16 154 citations, of which 519 were retrieved and screened in full text. Forty RCTs and 5 NRCSs were eligible (Supplement Figure and Supplement Tables 1 and 2, available at Annals.org). The randomized evidence base is sparse (Part B of the Supplement). Across all outcomes, the RCTs examined 18 interventions and provided data on 34 head-to-head comparisons, out of 153 possible comparisons. Of the 34 comparisons, 33 were in- formed by at most 3 trials.
 
-2011 - 2015<br> 
-<b>HACS: Human Aspects of Computer Science (BSc level)</b><br> 
-<b>HACS-RS: Human Aspects of Computer Science, Reading Seminars (BSc level)</b><br> 
-<b>UCDE: User-Centered Design (MSc level)</b><br> 
-<b>REQE: Requirements-Engineering (MSc)</b><br> 
-<b>NSTC: Non-Standard Computation (MSc)</b><br> 
-<b>TPOP: Theory and Practice of Programming (MSc)</b><br> 
-<b>COMP: Project: Computer Science Projects (MSc/BSc)</b><br> 
-<b>COMP-W: Computer Science Writing (MSc/BSc)</b><br> 
-<b>SYAC: Systems Software and Compilers (BSc)</b><br> 
-<b>SWEN: Software Engineering (MSc)</b><br> 
-<b>AI: Artificial Intelligence (BSc)</b><br> 
-<b>GPSM: Group Project Software Management (MSc)</b><br> 
+<img src="images/live_fig1.png" alt="NASA invitation letter" style="width:380px;height:400px;"><p>Frontier Development Lab acceptance and invitation letter</p>
 
-## The Mount School York
 
-2011<br> 
-<b>German Language Teacher</b>
+<img src="images/live_fig2.png" alt="NASA invitation letter" style="width:380px;height:400px;"><p>Frontier Development Lab acceptance and invitation letter</p>
 
-## Deggendorf Institute of Technology
+<img src="images/live_fig3.png" alt="NASA invitation letter" style="width:380px;height:400px;"><p>Frontier Development Lab acceptance and invitation letter</p>
 
-2008<br> 
-<b>PROLOG programming and knowledge-based systems evaluation</b> Instructor<br> 
-<b>KNNS artificial intelligence & neuronal network software simulator</b> Lab Assistant<br> 
 
-2007<br> 
-<b>Prof. Fischer's Software-tool laboratory</b> Lab Instructor<br> 
-<b>SAP/R3 ABAP programming</b> Tutor and teaching content writer<br> 
+## Discussion
+
+On the basis of sparse evidence and with substan- tial imprecision, surgery and external-beam radiation have lower recurrence rates than other modalities for the treatment of BCC. In order for clinicians, patients, and payers to make informed decisions about treating BCC, new RCT or high-quality NRCS evidence is needed.
+
+
+[Github](https://github.com/h21k).
+
+
