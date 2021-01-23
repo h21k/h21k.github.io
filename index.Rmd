@@ -23,7 +23,7 @@ This website was created in [R](https://www.r-project.org)!
 
 _________
 
-<b>INFO: This webpage is outdated an will be updated in a few weeks!</b>
+<b>INFO: This webpage is outdated and will be updated in the coming weeks!</b>
 
 Latest research:                Upcoming event: 
 
