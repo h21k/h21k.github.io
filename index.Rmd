@@ -19,13 +19,16 @@
 
 <p align="justify">My research is supported by [NVIDIA Corporation](http://www.nvidia.com/).</p>
 
-This website was created in [R](https://www.r-project.org)! 
+_________
+
+Latest on Arxiv: [Generating (Factual?) Narrative Summaries of RCTs: Experiments with Neural Multi-Document Summarization](https://arxiv.org/abs/2008.11293)<br>
+Latest on Github:  [Finding randomized trials in health research databases: evaluation of transformer models](https://github.com/h21k/findingRCTs)<br>
 
 _________
 
-<b>INFO: This webpage is outdated and will be updated in the coming weeks!</b>
+This website was created in [R](https://www.r-project.org)! 
 
-Latest research:                Upcoming event: 
+<b>INFO: This website will be updated shortly...</b>
 
 
 <!--updates on : conference articles, presentations, talks, springer, teaching upcoming MPH, Speaking (Micosoft - Krittika, BBC, GTC, NASA Galvaston, NASA JPL, FDL 2020, Mentor 2019 stuff, NSPIRES, MooonRaiders, -->
