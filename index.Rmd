@@ -28,7 +28,7 @@ _________
 
 This website was created in [R](https://www.r-project.org)! 
 
-<b>INFO: This website will be updated shortly..</b>
+<b>INFO: This website will be updated shortly....</b>
 
 
 <!--updates on : conference articles, presentations, talks, springer, teaching upcoming MPH, Speaking (Micosoft - Krittika, BBC, GTC, NASA Galvaston, NASA JPL, FDL 2020, Mentor 2019 stuff, NSPIRES, MooonRaiders, -->
