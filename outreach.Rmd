@@ -9,7 +9,7 @@ output:
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 ## Upcoming Events
-
+<b>-> NEW UPDATES INCOMING<-</b><br>
 - [Windsor event](https://www.google.com)  <b>-> more news soon<-</b><br>
 - [NASA GLOBE Program Machine learning workshop](https://www.globe.gov)  <b>-> more news soon<-</b><br>
 - [NASA Space Apps Challenge](https://www.spaceappschallenge.org) I'll help organising this year's NASA Space Apps <b>-> more news soon<-</b><br>
