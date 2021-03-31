@@ -11,6 +11,7 @@ output:
 ## Upcoming
 
 2021 [NVIDIA GTC 2021](http://aitechworld.net/): <b>*NASA FDL Projects*</b> (more info soon)<br>
+2021 [King's Engaged Researcher Network]
 2018 [AI Tech World / London Tensorflow](http://aitechworld.net/): <b>*NASA FDL Project*</b> (more info soon)<br>
 2018 Google Campus: <b>*RobotReviewer*</b><br>
 2018 King's College: <b>*RobotReviewer Day*</b><br>
