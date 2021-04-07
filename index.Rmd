@@ -24,6 +24,9 @@ _________
 
 Latest on Arxiv: [Generating (Factual?) Narrative Summaries of RCTs: Experiments with Neural Multi-Document Summarization](https://arxiv.org/abs/2008.11293)<br>
 Latest on Github:  [Finding randomized trials in health research databases: evaluation of transformer models](https://github.com/h21k/findingRCTs)<br>
+<br>
+Upcoming Talk:<br>
+<img src="images/nvidia.jpg" alt="NVIDIA GTC 2021 Talk" style="width:800px;height:450px;"><p>NVIDIA GTC 2021 - FDL Projects with NASA</p>
 
 _________
 
